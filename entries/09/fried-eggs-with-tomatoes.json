@@ -1,0 +1,17 @@
+{
+  "key": "fried-eggs-with-tomatoes",
+  "name": "Fried Eggs with Tomatoes",
+  "name_localized": {
+    "schinese": "西红柿炒鸡蛋"
+  },
+  "primary_ingredients": [
+    "西红柿",
+    "鸡蛋"
+  ],
+  "tags": [
+    "vegetable", 
+    "lunch",
+    "dinner",
+    "home"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tags": [
+    { "key": "dinner", "name": "Dinner", "steam_id": null },
+    { "key": "home", "name": "Home", "steam_id": null },
+    { "key": "lunch", "name": "Lunch", "steam_id": null },
+    { "key": "vegetable", "name": "Vegetable", "steam_id": null }
+  ],
+  "categories": {
+    "dish_type": {
+      "name": "Dish Type",
+      "tags": [
+        "vegetable"
+      ]
+    },
+    "meal": {
+      "name": "Meal",
+      "tags": [
+        "dinner",
+        "lunch"
+      ]
+    },
+    "context": {
+      "name": "Context",
+      "tags": [
+        "home"
+      ]
+    }
+  }
+}
